@@ -1,3 +1,4 @@
+#!/bin/bash
 DIR=*
 for d in $DIR
 do
