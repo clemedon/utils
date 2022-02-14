@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 DIR=*
 for d in $DIR
 do
